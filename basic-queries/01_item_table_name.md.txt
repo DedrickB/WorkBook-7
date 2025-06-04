@@ -1,0 +1,2 @@
+The table that holds the items Northwind sells is `products`.
+
